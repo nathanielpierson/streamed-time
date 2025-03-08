@@ -1,5 +1,5 @@
 class Streamed_time
   def self.hi
-    puts "Hellow world!"
+    puts "Hello world!"
   end
 end
