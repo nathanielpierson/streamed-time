@@ -1,3 +1,3 @@
   require 'streamed_time'
 
-  Streamed_time.statement
+  Streamed_time.statement("ikori_mario")
