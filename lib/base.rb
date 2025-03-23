@@ -1,6 +1,3 @@
-module StreamedTime
-
-  class Base_test
+  class Base
     puts "test"
   end
-end
